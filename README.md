@@ -2,7 +2,7 @@
 
 Welcome to the Plant Store App! This web application allows users to explore, favorite, and purchase various plants. The app provides a seamless shopping experience with support for multiple languages: English (EN), Russian (RU), and Arabic (AR).
 
-[Visit the Plant Store App](https://plante-store.vercel.app/)
+[Visit the Plant Store App](https://jeed0o0.github.io/jeed0o0/)
 
 ## Table of Contents
 
